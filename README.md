@@ -99,6 +99,14 @@ A short video demonstrating the system in operation can be found here:
 ## Ethical & Safety Statement
 All experiments and data collection were performed under conditions that ensured no impact on patient treatment or safety.
 
+## Disclaimer & Intended Use
+
+This project was developed solely for academic and research purposes as part of a university course in Tiny Machine Learning.
+
+The software and system presented in this repository are **experimental** and **not intended for use in real-world emergency response, operational ambulance systems, vehicle control, or other safety-critical applications**.
+
+The authors assume no responsibility or liability for any direct or indirect consequences resulting from the use, misuse, or interpretation of this software outside its intended academic context.
+
 ---
 
 ## Repository Structure
@@ -112,3 +120,5 @@ All experiments and data collection were performed under conditions that ensured
 ├── hardware/           # Wiring diagrams and hardware documentation (PDF)
 ├── figures/            # Plots and figures used in the report
 └── README.md
+
+---

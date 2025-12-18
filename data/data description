@@ -1,3 +1,15 @@
 Raw data from DAQ system.
 Sampled at 500Hz
 Each file is supposed to be 30s long.
+Data is manually labeled either Normal_kørsel or Udryknings_kørsel
+Each sample holds a timestamp in miliseconds, accX accY accZ sample from the accelerometer
+Saved as .CSV files, with the header: timestamp,accX,accY,accZ
+
+Example data:
+timestamp,accX,accY,accZ
+621459228,0.88,-0.37,0.18
+621467165,0.83,-0.37,0.23
+621477162,0.87,-0.28,0.03
+621487163,0.88,-0.39,0.06
+621497249,0.94,-0.49,0.11
+621507168,0.79,-0.48,0.13

@@ -4,6 +4,10 @@ This repository contains an end-to-end Tiny Machine Learning (TinyML) project de
 
 The project demonstrates how a complete TinyML pipeline can be designed, implemented, and deployed on a resource-constrained microcontroller, without reliance on cloud-based solutions.
 
+The data processing, model training, EMlearn converting is done in JupyterLab
+
+Photon 2 firmware is done i VScode
+
 ---
 
 ## Project Overview

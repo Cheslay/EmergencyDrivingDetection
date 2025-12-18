@@ -96,6 +96,9 @@ The system was tested in a real ambulance during both normal driving and emergen
 A short video demonstrating the system in operation can be found here:  
 ▶️ https://www.youtube.com/shorts/jz6B_zdqWPw
 
+## Ethical & Safety Statement
+All experiments and data collection were performed in under conditions that ensured no impact on patient treatment or safety.
+
 ---
 
 ## Repository Structure

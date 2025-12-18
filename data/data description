@@ -2,9 +2,11 @@ Raw data from DAQ system.
 Sampled at 500Hz
 Each file is supposed to be 30s long.
 Data is manually labeled either Normal_kørsel or Udryknings_kørsel
-Each sample holds a timestamp in miliseconds, accX accY accZ sample from the accelerometer
-Saved as .CSV files, with the header: timestamp,accX,accY,accZ
-
+Each sample holds a timestamp in miliseconds, accX accY accZ sample from the ADXL343accelerometer
+Accelerometer is set to full resolution, to capture all G ranges.
+Sensitivity is 256 LSB/g in full resolution mode
+So scale factor is 1/256 = 0.00390625 g/LSB
+Data is saved as .CSV files, with the header: timestamp,accX,accY,accZ
 Example data:
 timestamp,accX,accY,accZ
 621459228,0.88,-0.37,0.18

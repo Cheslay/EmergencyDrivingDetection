@@ -96,16 +96,21 @@ The system was tested in a real ambulance during both normal driving and emergen
 A short video demonstrating the system in operation can be found here:  
 ▶️ https://www.youtube.com/shorts/jz6B_zdqWPw
 
+---
+
 ## Ethical & Safety Statement
 All experiments and data collection were performed under conditions that ensured no impact on patient treatment or safety.
 
-## Disclaimer & Intended Use
+## Disclaimer, Intended Use & License
 
 This project was developed solely for academic and research purposes as part of a university course in Tiny Machine Learning.
 
 The software and system presented in this repository are **experimental** and **not intended for use in real-world emergency response, operational ambulance systems, vehicle control, or other safety-critical applications**.
 
 The authors assume no responsibility or liability for any direct or indirect consequences resulting from the use, misuse, or interpretation of this software outside its intended academic context.
+
+This project is licensed under the **MIT License** and is provided **"as is", without warranty of any kind**, express or implied.  
+See the `LICENSE` file for full license text.
 
 ---
 

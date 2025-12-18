@@ -39,7 +39,6 @@ The final system runs continuously on the microcontroller and indicates detected
 
 - **Microcontroller:** Particle Photon 2
 - **Sensor:** ADXL343 3-axis accelerometer (I²C)
-- **Sampling rate:** 500 Hz
 - **Power:** USB power bank (during mobile testing)
 - **Output:** 3 blue LEDs indicating emergency driving
 

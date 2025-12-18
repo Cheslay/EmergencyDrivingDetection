@@ -1,4 +1,9 @@
 # TinyML-based Classification of Emergency Driving
+![University](https://img.shields.io/badge/Aarhus%20University-Engineering-darkred)
+![Course](https://img.shields.io/badge/Course-ETTML--01-blueviolet)
+![TinyML](https://img.shields.io/badge/TinyML-Embedded%20ML-blue)
+![Particle](https://img.shields.io/badge/Platform-Particle%20Photon%202-red)
+![emlearn](https://img.shields.io/badge/ML-emlearn-green)
 
 This repository contains an end-to-end Tiny Machine Learning (TinyML) project developed as a semester project for the course **ETTML-01 Tiny Machine Learning** in the **Electronics Engineering** program at **Aarhus University, Campus Herning**.
 

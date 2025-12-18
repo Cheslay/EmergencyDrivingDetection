@@ -1,6 +1,6 @@
 # TinyML-based Classification of Emergency Driving
 
-This repository contains an end-to-end Tiny Machine Learning (TinyML) project developed as a semester project for the course **ETTML-01 Tiny Machine Learning** in the **Diploma Engineering in Electronics** program at **Aarhus University, Campus Herning**.
+This repository contains an end-to-end Tiny Machine Learning (TinyML) project developed as a semester project for the course **ETTML-01 Tiny Machine Learning** in the **Electronics Engineering** program at **Aarhus University, Campus Herning**.
 
 The project demonstrates how a complete TinyML pipeline can be designed, implemented, and deployed on a resource-constrained microcontroller, without reliance on cloud-based solutions.
 

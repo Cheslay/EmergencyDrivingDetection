@@ -97,7 +97,7 @@ A short video demonstrating the system in operation can be found here:
 ▶️ https://www.youtube.com/shorts/jz6B_zdqWPw
 
 ## Ethical & Safety Statement
-All experiments and data collection were performed in under conditions that ensured no impact on patient treatment or safety.
+All experiments and data collection were performed under conditions that ensured no impact on patient treatment or safety.
 
 ---
 
